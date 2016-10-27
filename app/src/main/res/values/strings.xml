@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">20161024_test3</string>
+    <string-array name="fruits">
+        <item>蘋果</item>
+        <item>西瓜</item>
+        <item>柳丁</item>
+        <item>香蕉</item>
+        <item>草莓</item>
+    </string-array>
+</resources>
