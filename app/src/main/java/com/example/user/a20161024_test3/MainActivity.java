@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        spinner = (Spinner) findViewById(R.id.spinner);
+        spinner = (Spinner) findViewById(R.id.spinner);         //spinner  :  下拉選單
         tv = (TextView) findViewById(R.id.textView2);
         tv2 = (TextView) findViewById(R.id.textView3);
 
